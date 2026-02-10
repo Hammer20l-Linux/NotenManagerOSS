@@ -1,4 +1,8 @@
 # NotenManagerOSS
+
+LibreOffice 	![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
+
+
 NotenManagerOSS is a Tool build for Libreoffice Calc or other Spreadsheet Programms. It is build for the German Grade System and can calculate your average Grade, your End Grade for every Subject and calculates a Grande Point average. The Design can be adapted to your School or your Preferences. There are Places for the Class/Year and the Subjects. The Tool is only avaiable in German actually,a English Version will follow. Attention: The Tool has Beta Status.
 
 German Version:
