@@ -1,5 +1,11 @@
 # NotenManagerOSS
 
+
+
+
+
+
+
 Tool for  	![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
 
 
